@@ -32,6 +32,6 @@ ________________________________________
 3. Espera la confirmación.
 ________________________________________
 📥 **Descargar archivo**
-- https://github.com/speinador/Control_de_Puertos/blob/main/Control_de_Puertos.bat
+https://github.com/speinador/Gestor_Defensas_Windows/blob/main/DefensasWindows.bat
 ________________________________________
 **Nota:** Este script está diseñado con fines educativos y administrativos. No debe utilizarse para desactivar protecciones en sistemas sin autorización.
