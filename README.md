@@ -35,3 +35,18 @@ ________________________________________
 https://github.com/speinador/Gestor_Defensas_Windows/blob/main/DefensasWindows.bat
 ________________________________________
 **Nota:** Este script está diseñado con fines educativos y administrativos. No debe utilizarse para desactivar protecciones en sistemas sin autorización.
+________________________________________
+
+## 🧑‍🏫 Autor
+
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
+
+________________________________________
+
+## 📄 Licencia
+
+Este material se distribuye bajo la licencia [MIT](LICENSE).
+
+________________________________________
+
+> Si te resulta útil, ¡no olvides darle ⭐ al repo o compartirlo!
